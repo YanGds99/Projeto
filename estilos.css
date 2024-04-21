@@ -1,0 +1,62 @@
+header#cadastro {
+    background-color: #eeeeee;
+    margin: 0px;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding-bottom: 30px;
+}
+
+header#consulta {
+    background-color: #eeeeee;
+    margin: 0px;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding-bottom: 80px;
+}
+
+main {
+    height: 50px;
+    text-align: center;
+    justify-content: center;
+    position: static;
+    align-items: center;
+}
+
+body {
+    background-color: #eeeeee;
+}
+
+fieldset {
+    background-color: white;
+}
+
+img {
+    margin-left: 1rem;
+    max-width:70px;
+    max-height:70px;
+    width: auto;
+    height: auto;
+}
+
+table {
+    margin: auto;
+    border: 1px solid black;
+}
+
+td {
+    margin: auto;
+    border: 1px solid black;
+}
+
+a#link {
+    background-color: white;
+    border: 1px solid black;
+    padding: 5px;
+    margin: 1px;
+}
