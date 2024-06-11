@@ -18,7 +18,10 @@
             <fieldset>
                 <h1>Selecione o serviço desejado</h1>
                 <a id="link" href="cadastro.php">Cadastrar Notas Fiscais</a>
-                <a id="link" href="consultaPorNumero.php">Consultar por Número</a><br>
+                <a id="link" href="consultaPorNumero.php">Consultar por Número</a>
+                <a id="link" href="consultaPorEmpresa.php">Consultar por Empresa/Cliente</a>
+                <a id="link" href="consultaPorEmissao.php">Consultar por Data de Emissão</a>
+                <a id="link" href="consultaPorVencimento.php">Consultar por Data de Vencimento</a><br>
             </fieldset>
         </main>
 
